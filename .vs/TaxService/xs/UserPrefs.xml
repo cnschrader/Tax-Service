@@ -2,25 +2,45 @@
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.Tax.Controller PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Tax.Processoor/Configuration.cs">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <Breakpoint file="/Users/schrader/Documents/Coding/TaxService/Tax.Tests/TaxRateTests.cs" relfile="Tax.Tests/TaxRateTests.cs" line="16" column="1" />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Tax.Processoor/appsettings.json">
     <Files>
-      <File FileName="TaxService/Program.cs" Line="1" Column="1" />
-      <File FileName="Tax.Common/Class1.cs" Line="1" Column="1" />
-      <File FileName="Tax.Processoor/Configuration.cs" Line="10" Column="1" />
+      <File FileName="TaxService/Program.cs" Line="16" Column="21" />
+      <File FileName="Tax.Processoor/Configuration.cs" Line="27" Column="1" />
+      <File FileName="Tax.Processoor/appsettings.json" Line="9" Column="6" />
+      <File FileName="Tax.Processoor/Interfaces/EmptyInterface.cs" Line="9" Column="67" />
+      <File FileName="Tax.Processoor/TaxJarProcessor.cs" Line="41" Column="50" />
+      <File FileName="Tax.Processoor/ApiHelper.cs" Line="20" Column="1" />
+      <File FileName="Tax.Processoor/Models/TaxRateModel.cs" Line="3" Column="25" />
+      <File FileName="Tax.Processoor/Models/TaxCalculateValuesModel.cs" Line="3" Column="26" />
+      <File FileName="Tax.Processoor/Models/TaxResultModel.cs" Line="3" Column="24" />
+      <File FileName="Tax.Processoor/Models/CalculationItemsModel.cs" Line="3" Column="34" />
+      <File FileName="Tax.Processoor/Models/NexusAddress.cs" Line="13" Column="1" />
+      <File FileName="Tax.Common/Models/CalculatorTypeModel.cs" Line="1" Column="1" />
+      <File FileName="TaxService/TaxService.cs" Line="1" Column="17" />
+      <File FileName="TaxService/Models/CustomerType.cs" Line="3" Column="25" />
+      <File FileName="Tax.Common/Factories/TaxJarCalculatorFactory.cs" Line="10" Column="10" />
+      <File FileName="Tax.Test/FactoryTests.cs" Line="25" Column="1" />
+      <File FileName="Tax.Test/EmptyClass.cs" Line="4" Column="1" />
+      <File FileName="TaxService/Service.cs" Line="28" Column="77" />
+      <File FileName="Tax.Test/ValidationTests.cs" Line="3" Column="1" />
+      <File FileName="Tax.Test/TaxJarCalculatorTests.cs" Line="66" Column="35" />
+      <File FileName="Tax.Common/Factories/CalculatorFactory.cs" Line="1" Column="1" />
+      <File FileName="Tax.Processoor/Models/Rate.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="TaxService" expanded="True">
-            <Node name="Tax.Processor" expanded="True">
-              <Node name="Configuration.cs" selected="True" />
-            </Node>
-          </Node>
+          <Node name="TaxService" expanded="True" />
         </State>
       </Pad>
       <Pad Id="MonoDevelop.Debugger.WatchPad">
         <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__" />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
