@@ -1,0 +1,13 @@
+/Users/schrader/Documents/Coding/TaxService/Tax.Processoor/bin/Debug/net6.0/appsettings.json
+/Users/schrader/Documents/Coding/TaxService/Tax.Processoor/bin/Debug/net6.0/Tax.Processor.deps.json
+/Users/schrader/Documents/Coding/TaxService/Tax.Processoor/bin/Debug/net6.0/Tax.Processor.dll
+/Users/schrader/Documents/Coding/TaxService/Tax.Processoor/bin/Debug/net6.0/Tax.Processor.pdb
+/Users/schrader/Documents/Coding/TaxService/Tax.Processoor/obj/Debug/net6.0/Tax.Processor.csproj.AssemblyReference.cache
+/Users/schrader/Documents/Coding/TaxService/Tax.Processoor/obj/Debug/net6.0/Tax.Processor.GeneratedMSBuildEditorConfig.editorconfig
+/Users/schrader/Documents/Coding/TaxService/Tax.Processoor/obj/Debug/net6.0/Tax.Processor.AssemblyInfoInputs.cache
+/Users/schrader/Documents/Coding/TaxService/Tax.Processoor/obj/Debug/net6.0/Tax.Processor.AssemblyInfo.cs
+/Users/schrader/Documents/Coding/TaxService/Tax.Processoor/obj/Debug/net6.0/Tax.Processor.csproj.CoreCompileInputs.cache
+/Users/schrader/Documents/Coding/TaxService/Tax.Processoor/obj/Debug/net6.0/Tax.Processor.dll
+/Users/schrader/Documents/Coding/TaxService/Tax.Processoor/obj/Debug/net6.0/refint/Tax.Processor.dll
+/Users/schrader/Documents/Coding/TaxService/Tax.Processoor/obj/Debug/net6.0/Tax.Processor.pdb
+/Users/schrader/Documents/Coding/TaxService/Tax.Processoor/obj/Debug/net6.0/ref/Tax.Processor.dll

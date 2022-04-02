@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{8FD87D99-F162-4751-A608-7F0D36C63297}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Tax.Controller PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Tax.Processoor/Configuration.cs">
+    <Files>
+      <File FileName="TaxService/Program.cs" Line="1" Column="1" />
+      <File FileName="Tax.Common/Class1.cs" Line="1" Column="1" />
+      <File FileName="Tax.Processoor/Configuration.cs" Line="10" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TaxService" expanded="True">
+            <Node name="Tax.Processor" expanded="True">
+              <Node name="Configuration.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
