@@ -19,10 +19,11 @@ public class TaxJarCalculatorTests
     [Test]
     public void ShouldCalculateSalesTax()
     {
+        TaxJarCalculator taxJarCalculator = new TaxJarCalculator();
         float amountToCollect = 5.5F;
-        float OrderTotalAmount = 10F;
+        float orderTotalAmount = 10F;
 
-        var actualSalesTax = amountToCollect + OrderTotalAmount;
+        var actualSalesTax = taxJarCalculator.PerformSalesTaxCalculation(amountToCollect, orderTotalAmount);
         var expectedSalesTax = 15.5F;
 
         Assert.AreEqual(expectedSalesTax, actualSalesTax);
